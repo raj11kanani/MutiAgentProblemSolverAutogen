@@ -1,26 +1,62 @@
-Multi-Agent Task Solving with AutoGen 🤖🤝
-This project showcases automated multi-agent collaboration using the AutoGen framework, where AI agents work together to solve complex tasks through structured communication. The system consists of multiple agents, including a User Proxy (Admin), Coder, and Product Manager, coordinated by a Group Chat Manager to enhance efficiency in problem-solving.
+# Multi-Agent Task Solving with AutoGen 🤖🤝  
 
-🚀 Key Features
-Multi-Agent Collaboration: AI agents communicate and work collectively to solve tasks.
-Automated Task Execution: The system autonomously assigns and executes tasks based on agent roles.
-Intelligent Task Delegation: Different agents contribute based on their expertise (coding, product ideation, etc.).
-Configurable Execution: Supports customizable agent roles, execution settings, and interaction modes.
-🛠 How It Works
-User Proxy (Admin): Oversees the conversation and initiates tasks.
-Coder (Assistant Agent): Handles coding-related problem-solving and implementation.
-Product Manager: Provides creative software product ideas and strategic input.
-Group Chat Manager: Manages agent interactions and ensures structured execution.
-📌 Applications
-Software Development Assistance – Automate coding tasks through AI-driven collaboration.
-AI-Powered Brainstorming – Generate and refine product ideas with structured AI discussions.
-Automated Research & Analysis – Leverage LLMs to extract insights and provide recommendations.
-🔧 Customization
-You can modify the agents, system messages, and execution settings to tailor the framework to your specific use case.
+## Overview  
+This project demonstrates automated **multi-agent collaboration** using the **AutoGen framework**, where AI agents work together to solve complex tasks through structured communication. The system consists of multiple agents, including a **User Proxy (Admin), Coder, and Product Manager**, all coordinated by a **Group Chat Manager** to enhance efficiency in problem-solving.  
 
-🚀 Future Enhancements
-Support for additional AI roles (e.g., Tester, Data Analyst).
-Integration with external APIs for real-world applications.
-Improved task prioritization and workflow automation.
-🤝 Contributing
-Feel free to open issues, suggest improvements, or submit pull requests to enhance the project!
+---
+
+## 🚀 Features  
+- **Multi-Agent Collaboration** – AI agents interact dynamically to achieve a common goal.  
+- **Automated Task Execution** – Intelligent delegation and execution of tasks based on agent roles.  
+- **Scalable Architecture** – Easily modify the number and functionality of agents.  
+- **Configurable Execution** – Customize system messages, execution settings, and agent behaviors.  
+
+---
+
+## 🛠 How It Works  
+
+### 1️⃣ User Proxy (Admin)  
+Oversees the conversation, provides input, and ensures smooth execution.  
+
+### 2️⃣ Coder (Assistant Agent)  
+Responsible for writing, reviewing, and debugging code.  
+
+### 3️⃣ Product Manager  
+Generates software product ideas and strategic recommendations.  
+
+### 4️⃣ Group Chat Manager  
+Facilitates structured multi-agent communication.  
+
+The **Group Chat** enables the agents to interact seamlessly, exchanging information and refining solutions in a collaborative manner.  
+
+---
+
+## 📌 Applications  
+- **Software Development Assistance** – Automate coding tasks through AI-driven collaboration.  
+- **AI-Powered Brainstorming** – Generate and refine product ideas with structured AI discussions.  
+- **Automated Research & Analysis** – Leverage LLMs to extract insights and provide recommendations.  
+
+---
+
+## 🔧 Customization  
+
+### 🏗 Modify Agent Roles  
+Add or remove agents based on your requirements.  
+
+### 📝 System Messages  
+Define custom behaviors for different AI personas.  
+
+### ⚙️ Execution Settings  
+Adjust parameters like conversation length and task complexity.  
+
+---
+
+## 🚀 Future Enhancements  
+- ✅ Support for additional AI roles (e.g., Tester, Data Analyst).  
+- ✅ Integration with external APIs for real-world applications.  
+- ✅ Improved task prioritization and workflow automation.  
+
+---
+
+## 📜 License  
+This project is open-source and available under the **MIT License**.  
